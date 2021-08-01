@@ -1,13 +1,24 @@
-## Mikhail Toropchinov
+## Михаил Торопчинов
+Добро пожаловать на мою личную страницу Github.
 
-back-end Node developer
+### Обо мне:
+Город: Москва/Обнинск
+Являюсь студентом NRNU MEPhi
+Заинтересован в Web-разработке (back-end)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Мои проекты:
 
-### Jekyll Themes
+#### [Обмен файлами (Fullstack)] (https://github.com/file-sharing-erp-team/file-sharing) 
+Простое приложение стека MERN для запроса документов в студенческом кабинете моего университета;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ruhose73/ruhose73/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Grand Core Openschool (Back-end)] (https://github.com/grandcore/openschool) 
+Бесплатная онлайн-школа;
 
-### Support or Contact
+#### Byhlodill (Fullstack)
+в процессе разработки;
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Связаться со мной 
+#### Электронная почта: ruhose73@mail.ru 
+#### [VK] (https://vk.com/chegevarys) 
+
+#### Телеграмма: @Toropcha
