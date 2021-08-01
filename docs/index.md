@@ -1,9 +1,13 @@
-## Mikhail Toropchinov
----
 1.	Обо мне:
     * Город: Москва/Обнинск
     * Являюсь студентом NRNU MEPhi
     * Заинтересован в Web-разработке (back-end)
+
+---
+2.  С чем работаю:
+*  Node.js
+*  Express
+*  Mongo / PostgreSQL
 
 ---
 2.	Мои проекты:
