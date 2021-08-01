@@ -1,4 +1,4 @@
-#Mikhail Toropchinov
+# Mikhail Toropchinov
 
 1.	Обо мне:
 *  Город: Москва/Обнинск
