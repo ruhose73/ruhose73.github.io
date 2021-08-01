@@ -1,5 +1,5 @@
-Mikhail Toropchinov 
-ruhose73
+#Mikhail Toropchinov
+
 1.	Обо мне:
 *  Город: Москва/Обнинск
 *  Являюсь студентом NRNU MEPhi
